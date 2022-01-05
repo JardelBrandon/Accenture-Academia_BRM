@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641351598 source:c:\users\jarde\documents\github\accenture-academia_brm\treinamento-linguagem_c\jardel-relogio_falado\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1641351763 source:c:\users\jarde\documents\github\accenture-academia_brm\treinamento-linguagem_c\relogio_falado-exercicio_01\jardel-relogio_falado.c
+	<stdio.h>
+	<stdlib.h>
+
