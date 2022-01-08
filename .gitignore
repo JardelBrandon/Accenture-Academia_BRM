@@ -1,0 +1,4 @@
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+obj/
